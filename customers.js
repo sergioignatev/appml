@@ -1,5 +1,5 @@
 {
-    "records"[
+    "records":[
     {"CustomerName":"Alfreds Futterkiste","City":"Berlin","Country":"Germany"},
     {"CustomerName":"Ana Trujillo Emparedados y helados","City":"México D.F.","Country":"Mexico"},
     {"CustomerName":"Antonio Moreno Taquería","City":"México D.F.","Country":"Mexico"},
