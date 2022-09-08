@@ -1,5 +1,5 @@
 {
-    "records":[
+    "records"[
     {"CustomerName":"Alfreds Futterkiste","City":"Berlin","Country":"Germany"},
     {"CustomerName":"Ana Trujillo Emparedados y helados","City":"México D.F.","Country":"Mexico"},
     {"CustomerName":"Antonio Moreno Taquería","City":"México D.F.","Country":"Mexico"},
@@ -15,6 +15,6 @@
     {"CustomerName":"Centro comercial Moctezuma","City":"México D.F.","Country":"Mexico"},
     {"CustomerName":"Chop-suey Chinese","City":"Bern","Country":"Switzerland"},
     {"CustomerName":"Comércio Mineiro","City":"São Paulo","Country":"Brazil"},
-    {"CustomerName":"Sergio","City":"Buenos Aires","Country":"Argentina"}
+    {"CustomerName":"Sergio","City":"Buenos Aires","Country":"Argentinaa"}
     ]
     }
