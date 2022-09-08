@@ -14,6 +14,7 @@
     {"CustomerName":"Cactus Comidas para llevar","City":"Buenos Aires","Country":"Argentina"},
     {"CustomerName":"Centro comercial Moctezuma","City":"México D.F.","Country":"Mexico"},
     {"CustomerName":"Chop-suey Chinese","City":"Bern","Country":"Switzerland"},
-    {"CustomerName":"Comércio Mineiro","City":"São Paulo","Country":"Brazil"}
+    {"CustomerName":"Comércio Mineiro","City":"São Paulo","Country":"Brazil"},
+    {"CustomerName":"Sergio","City":"Buenos Aires","Country":"Argentina"}
     ]
     }
